@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GB_CSharp_StreamsBuffer": {
+      "commandName": "Project",
+      "commandLineArgs": ".txt hello D:\\Test"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB_CSharp_StreamsBuffer", "GB_CSharp_StreamsBuffer.csproj", "{818A5970-C9C6-4651-AC0B-F9985704048B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{818A5970-C9C6-4651-AC0B-F9985704048B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818A5970-C9C6-4651-AC0B-F9985704048B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818A5970-C9C6-4651-AC0B-F9985704048B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818A5970-C9C6-4651-AC0B-F9985704048B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {414BB5A2-299E-417D-AE0D-A588564D5095}
+	EndGlobalSection
+EndGlobal
